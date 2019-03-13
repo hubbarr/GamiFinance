@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-color: rgb(255,255,204);
+text-align: center;
+font-family: lucida console;
+font-size: 50px;
+color: rgb(0,0,0);
+text-align: center;
+font-family: lucida console;
+font-size: 50px;
+color: rgb(0,0,0);
+
+}
+h1{
+text-align: center;
+font-family: lucida console;
+font-size: 75px;
+color: rgb(0,0,0);}
+ul{
+text-align: center;
+}
+</style>
+</head>
+<body>
+<h1> Modules </h1>
+What would you like to learn more about?
+<table>
+  <tr>
+    <td> <a href="budgeting.html"> Budgeting </a> </td>
+    <td> <a href="investment.html"> Investment  </a> </td>
+    <td> <a href="assets.html"> Assets </a> </td> </tr>
+  <tr>
+    <td> <a href="liabilities.html"> Liabilities  </a> </td>
+    <td> <a href="inflation.html"> Inflation  </a> </td>
+  </tr>
+  </table>
+</body>
+</html>
